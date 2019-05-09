@@ -1,0 +1,14 @@
+server:
+  port: 8100
+eureka:
+  client:
+    service-url:
+      defaultZone: http://root:hero.88@localhost:8100/eureka/
+    fetch-registry: false
+    register-with-eureka: false
+security:
+  basic:
+    enabled: true
+  user:
+    name: root
+    password: hero.88

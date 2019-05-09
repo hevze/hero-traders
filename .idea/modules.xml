@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hero-common-compile/hero-common-compile.iml" filepath="$PROJECT_DIR$/hero-common-compile/hero-common-compile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-common-core/hero-common-core.iml" filepath="$PROJECT_DIR$/hero-common-core/hero-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-index-consumer/hero-index-consumer.iml" filepath="$PROJECT_DIR$/hero-index-consumer/hero-index-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-index-provide/hero-index-provide.iml" filepath="$PROJECT_DIR$/hero-index-provide/hero-index-provide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-parent/hero-parent.iml" filepath="$PROJECT_DIR$/hero-parent/hero-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-pojo/hero-pojo.iml" filepath="$PROJECT_DIR$/hero-pojo/hero-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero-register-center/hero-register-center.iml" filepath="$PROJECT_DIR$/hero-register-center/hero-register-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hero-traders.iml" filepath="$PROJECT_DIR$/.idea/hero-traders.iml" />
+    </modules>
+  </component>
+</project>
